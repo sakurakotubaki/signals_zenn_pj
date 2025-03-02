@@ -110,6 +110,30 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "preact_signals",
+      "rootUri": "file:///Users/hashimotojunichi/.pub-cache/hosted/pub.dev/preact_signals-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "signals",
+      "rootUri": "file:///Users/hashimotojunichi/.pub-cache/hosted/pub.dev/signals-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "signals_core",
+      "rootUri": "file:///Users/hashimotojunichi/.pub-cache/hosted/pub.dev/signals_core-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "signals_flutter",
+      "rootUri": "file:///Users/hashimotojunichi/.pub-cache/hosted/pub.dev/signals_flutter-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/hashimotojunichi/fvm/versions/3.29.0/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -170,7 +194,7 @@
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-03-02T05:13:05.000032Z",
+  "generated": "2025-03-02T05:27:26.660044Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///Users/hashimotojunichi/fvm/versions/3.29.0",
